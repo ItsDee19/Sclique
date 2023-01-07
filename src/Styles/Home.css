@@ -1,0 +1,93 @@
+.home-back{
+    min-height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../assets/backgrnd.png");
+    /* background-color: #000000; */
+    background-position: center;
+    background-size:cover;
+    position: relative;
+}
+
+.home-header{
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    color: #FFFFFF;
+    top:100px;
+}
+
+.home-gr-head{
+    font-size: 98px;
+    color: #0277BD;
+    line-height: 1.2;
+    margin: 0px 100px
+}
+
+.home-oth-head{
+    font-size: 98px;
+    color: #FFFFFF;
+    line-height: 1.2;
+    margin: 0px 100px
+}
+
+.home-header p{
+    font-size: 32px;
+    margin: 50px 100px;
+    letter-spacing: 2px;
+    line-height: 1.6;
+}
+
+.button-div{
+    display: flex;
+    justify-content: center;
+    padding: 100px
+}
+
+.button-sign-up{
+    height: 80px;
+    width: 200px;
+    margin: 50px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    padding: 10px;
+    border: 4px solid #01579B;
+    border-radius: 50px;
+    background-color: transparent;
+    color: #01579B;
+    font-size: 24px;
+    font-weight: 400;
+    cursor: pointer;
+    transition: 0.2s ease;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.button-log-in{
+    height: 80px;
+    width: 200px;
+    margin: 50px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    padding: 10px;
+    border: 4px solid #01579B;
+    border-radius: 50px;
+    background-color: #01579B;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 400;
+    cursor: pointer;
+    transition: 0.2s ease;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.button-log-in:hover{
+    border: 4px solid #0277BD;
+    background-color: #0277BD;
+}
+
+.button-sign-up:hover{
+    border: 4px solid #0277BD;
+    color: #0277BD;
+    background-color: #ffffff2e;
+}
