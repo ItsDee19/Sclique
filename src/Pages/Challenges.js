@@ -12,7 +12,7 @@ const Challenges = () => {
             <div className="ch_header">
                 <div className="header-left">
                     <h1>Take a Challenge!</h1>
-                    <p>Complete the available challenges to <br/> earn free credit and buy cool merchandise <br/> from our credit store.</p>
+                    <p>Complete the available challenges to earn free credit and buy cool merchandise from our credit store.</p>
                     </div>
                         <div className="header-right">
                             <img src={pic1} alt="quiz_icon" width="380px" height="380px" />
@@ -38,7 +38,7 @@ const Challenges = () => {
                                     <li className="list-item">
                                         <img className="topic-img" src={pic3} alt="music_icon" />
                                             <h1>Coding <br /> Contest</h1>
-                                            <p>Write a program to solve the <br /> given problem and earn loads of credit.</p>
+                                            <p>Write a program to solve the given problem and earn loads of credit.</p>
                                             <div className="reward-div">
                                                 <img src="https://cdn-icons-png.flaticon.com/128/2933/2933116.png" height="24px" width="24px" />
                                                 <p>100 credits</p>
