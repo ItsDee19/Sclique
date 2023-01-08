@@ -1,13 +1,13 @@
 .header {
     padding: 5px;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     align-items: center;
     justify-content: space-between;
     position: sticky;
     z-index: 100;
     top: 0;
-    background-color: #9ac7e4;
+    background-color: #039be5;
 }
 
 .header__left {
@@ -24,15 +24,23 @@
 }
 
 .header__right {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    flex: 0.3;
-    justify-content: space-evenly;
+    align-content: center;
 }
 
-.btn-primary > a {
-    color: black !important;
+.ac_btn > a {
+    color: blue;
+    background-color: black;
+    padding: 5px 10px;
+    padding-top: 20px;
+    margin-right: 50px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.ac_btn > a > img {
+    height: 32px;
+    width: 32px;
+    /* margin-top: 10px; */
 }
 
 .icon > img {
