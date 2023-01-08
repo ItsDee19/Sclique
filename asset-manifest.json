@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Sclique/static/css/main.060d3d61.css",
+    "main.js": "/Sclique/static/js/main.3d07abc7.js",
+    "static/media/backgrnd.png": "/Sclique/static/media/backgrnd.a36662303803e7ea497d.png",
+    "static/media/react logo.png": "/Sclique/static/media/react logo.5eb9e2bcff15d4bd2569.png",
+    "static/media/resource image.png": "/Sclique/static/media/resource image.e7ac5c25d407c7af98dc.png",
+    "static/media/page_logo.png": "/Sclique/static/media/page_logo.ffd70a4229900aee34f6.png",
+    "index.html": "/Sclique/index.html",
+    "main.060d3d61.css.map": "/Sclique/static/css/main.060d3d61.css.map",
+    "main.3d07abc7.js.map": "/Sclique/static/js/main.3d07abc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.060d3d61.css",
+    "static/js/main.3d07abc7.js"
+  ]
+}
